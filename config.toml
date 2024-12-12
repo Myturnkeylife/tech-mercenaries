@@ -1,3 +1,6 @@
 base_url = "techmercenaries.com"
 title = "Tech Mercenaries"
 description = "Solving your Technology Solutions"
+theme = "blow"
+build_search_index = true
+generate_sitemap = true
