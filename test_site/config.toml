@@ -1,5 +1,5 @@
 title = "My Integration Testing site"
-base_url = "https://replace-this-with-your-url.com"
+base_url = "https://techmercenaries.com"
 compile_sass = true
 generate_feeds = true
 theme = "sample"
